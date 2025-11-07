@@ -14,7 +14,10 @@ I'm Giovanni, a quantum science and technology master student at [TUM](https://a
 - I also enjoy hiking, reading and watching TV
 ... actually there are many things I like ahaha
   
-Feel free to reach out and with me! On [*LinkedIn*](https://www.linkedin.com/in/giovanni-concheri/) or via mail *giovanni.concheri@tum.de*
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/giovanni-concheri/) or via mail giovanni.concheri@tum.de and connect with me!
+
+Ciao 🪐
+
 <!--
 **gconcheri/gconcheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
