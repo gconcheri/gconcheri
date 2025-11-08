@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Giovanni, a quantum science and technology master student at [TUM](https://academics.nat.tum.de/start) and [LMU](https://www.lmu.de/de/index.html) researching about tensor networks and topology in condensed matter physics in the [CMT and QI group](https://www.ph.nat.tum.de/cmt/about-us/).
+My name is Giovanni and I am a quantum science and technology master student at [TUM](https://academics.nat.tum.de/start) and [LMU](https://www.lmu.de/de/index.html) researching about tensor networks and topology in condensed matter physics in the [CMT and QI group](https://www.ph.nat.tum.de/cmt/about-us/).
 
 ## About me 🤙
 ### Academic work ⚛
 - I am currently working on my Master thesis, where I analyze Floquet topological non-equilibrium phases in a Driven Kitaev Honeycomb Model. Most of my work is found in my [Master Thesis repository](https://github.com/gconcheri/MasterThesis)
-- I recently did a student research job on tensor networks algorithm known as: Tensor Cross Interpolation and Chebyshev Interpolation, with the aim to use them to improve simulations of correlation functions on quantum computers! Here you can find the [repository](https://github.com/gconcheri/Student-Research-Job)
+- I also recently did a student research job on tensor networks algorithm known as: Tensor Cross Interpolation and Chebyshev Interpolation, with the aim to use them to improve simulations of correlation functions on quantum computers! Here you can find the [repository](https://github.com/gconcheri/Student-Research-Job)
 
 ### Hobbies:
 - I play the guitar and the piano. I really love music in general! 🎸
