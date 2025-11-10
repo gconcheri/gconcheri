@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Giovanni and I am a quantum science and technology master student at [TUM](https://academics.nat.tum.de/start) and [LMU](https://www.lmu.de/de/index.html) researching about tensor networks and topology in condensed matter physics in the [CMT and QI group](https://www.ph.nat.tum.de/cmt/about-us/).
+My name is Giovanni and I am a quantum science and technology master student at [TUM](https://academics.nat.tum.de/start) and [LMU](https://www.lmu.de/de/index.html) researching about tensor networks and topology in condensed matter physics in the [QMQI group](https://www.ph.nat.tum.de/cmt/about-us/).
 
 ## About me 🤙
 ### Academic work ⚛
